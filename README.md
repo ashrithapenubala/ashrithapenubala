@@ -95,10 +95,12 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashrithapenubala&show_icons=true" />
+  <img src="https://ghchart.rshah.org/ashrithapenubala" alt="Ashritha's GitHub Contributions" />
 </p>
+
 
 ---
 
