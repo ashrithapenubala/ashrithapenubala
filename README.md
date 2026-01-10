@@ -1,18 +1,14 @@
 <h1 align="center">Hi, I'm Ashritha Penubala 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=300&center=true&vCenter=true&width=650&color=1E90FF&lines=B.Tech+3rd+Year+Student;Java+%26+Full-Stack+Developer;AWS+Enthusiast;Open+Source+Contributor;Amazon+KDP+Author" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=300&center=true&vCenter=true&width=650&color=1E90FF&lines=B.Tech+3rd+Year+Student;Full+Stack+Developer;AWS+Enthusiast;Open+Source+Contributor;Amazon+KDP+Author" />
 </p>
-
-
-
-
 
 ---
 
 ## 🌱 About Me
 🎓 B.Tech 3rd Year student at **Mohan Babu University, Tirupati**  
-💻 Strong interest in **Java-based Web Development & Full Stack**  
+💻 Strong interest in **Full Stack Web Development**  
 ☁️ Currently learning **AWS (Cloud Computing)**  
 🌍 Long-term goal: Work in **international IT environments**  
 🔥 Passionate, fast learner, and ready to contribute  
@@ -79,7 +75,7 @@
 📘 Published **3 Journals on Amazon KDP**
 - Religious Journal  
 - Self-Love Journal  
-- Fan-Based Journal
+- Fan-Based Journal  
 - [View my journals on Amazon KDP](https://kdp.amazon.com/en_US/bookshelf)
 
 ---
@@ -105,7 +101,6 @@
 <p align="center">
   <img src="https://ghchart.rshah.org/ashrithapenubala" alt="Ashritha's GitHub Contributions" />
 </p>
-
 
 ---
 
