@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ashritha Penubala 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Java+%26+Full-Stack+Developer;B.Tech+3rd+Year+Student;AWS+Enthusiast;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&color=ffffff&lines=Java+%26+Full-Stack+Developer;B.Tech+3rd+Year+Student;AWS+Enthusiast;Open+Source+Contributor;Amazon+KDP+Author" />
 </p>
 
 ---
