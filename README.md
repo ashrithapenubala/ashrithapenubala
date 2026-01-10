@@ -75,7 +75,8 @@
 📘 Published **3 Journals on Amazon KDP**
 - Religious Journal  
 - Self-Love Journal  
-- Fan-Based Journal  
+- Fan-Based Journal
+- [View my journals on Amazon KDP](https://kdp.amazon.com/en_US/bookshelf)
 
 ---
 
