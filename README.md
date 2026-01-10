@@ -1,67 +1,69 @@
 <h1 align="center">Hi, I'm Ashritha Penubala 👋</h1>
-<h3 align="center">B.Tech 3rd Year Student | Java & Full-Stack Developer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Java+%26+Full-Stack+Developer;B.Tech+3rd+Year+Student;AWS+Enthusiast;Open+Source+Contributor" />
+</p>
 
 ---
 
-🌱 I am a passionate B.Tech 3rd year student at **Mohan Babu University, Tirupati**, with a strong interest in **Java-based web development and cloud technologies**.  
-✨ I enjoy learning new skills quickly and contributing meaningfully to IT-related work.
+## 🌱 About Me
+🎓 B.Tech 3rd Year student at **Mohan Babu University, Tirupati**  
+💻 Strong interest in **Java-based Web Development & Full Stack**  
+☁️ Currently learning **AWS (Cloud Computing)**  
+🌍 Long-term goal: Work in **international IT environments**  
+🔥 Passionate, fast learner, and ready to contribute  
 
 ---
 
-## 🚀 About Me
-- 🎓 B.Tech (3rd Year), Mohan Babu University  
-- 💻 Strong interest in Java & Full-Stack Development  
-- ☁️ Currently learning **AWS (Cloud Computing)**  
-- 🌍 Long-term goal: Work in **international environments**  
-- 🔥 Passionate, adaptable, and eager to grow  
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Basic-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🌐 Web & Full Stack
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### ☁️ Cloud & Tools
+![AWS](https://img.shields.io/badge/AWS-Learning-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 
 ---
 
-## 🛠️ Skills
-**Programming Languages**
-- Java  
-- Python (Basic)  
+## 🚀 Featured Project
 
-**Web & Full Stack**
-- HTML, CSS, JavaScript  
-- Node.js, Express.js  
-- PostgreSQL  
+### 🩸 LifeNest – Blood & Organ Donation Platform  
+*(3rd Year Mini Project)*
 
-**Cloud & Tools**
-- AWS (Learning)  
-- Git, GitHub  
-- VS Code  
+- Full-stack web application for blood and organ donation  
+- Admin dashboard showing donor and user statistics  
+- Email notification system for updates and alerts  
+- Integrated chatbot (dialog box API) to answer website-related queries  
+- Strong focus on backend development and system design  
 
----
-
-## 📌 Major Projects
-
-### 🔹 LifeNest – Blood & Organ Donation Platform
-- A web platform to track **blood and organ donors**
-- Includes a **dashboard** showing donation statistics
-- Features **email notifications**
-- Integrated **chatbot (dialog box API)** to answer user queries  
-- **Tech Used:** Full Stack (Frontend + Backend)
-
-### 🔹 3rd Year Mini Project
-- Backend-focused application
-- Email notification system
-- Admin dashboard for donor statistics  
+**Tech Stack:** HTML, CSS, JavaScript, Node.js, Express.js, PostgreSQL  
 
 ---
 
 ## 📂 Other Projects
 
-**Frontend Projects**
+### 🌐 Frontend Projects
 - Amazon Clone  
 - E-commerce Website  
 - E-learning Website  
 - Destination Paradise (Travel Website)  
 - Indian Flag using HTML & CSS  
 
-**Backend / JavaScript Projects**
-- QR Code Generator  
+### ⚙️ Backend & JavaScript Projects
 - Blog Web Application  
+- QR Code Generator  
 - JavaScript Games:
   - Simon Game  
   - Dice Game  
@@ -69,35 +71,35 @@
 
 ---
 
-## 📘 Writing & Publishing
-- ✍️ Published **3 Journals on Amazon KDP**:
-  - Religious Journal  
-  - Self-Love Journal  
-  - Fan-Based Journal  
+## ✍️ Writing & Publishing
+📘 Published **3 Journals on Amazon KDP**
+- Religious Journal  
+- Self-Love Journal  
+- Fan-Based Journal  
 
 ---
 
 ## 💼 Experience
-- 👩‍💻 **Frontend Developer Intern – AICTE**
-  - Duration: 3 Months  
-  - Built:
-    - Portfolio Website  
-    - E-commerce Website  
-    - E-learning Website  
+
+### 👩‍💻 Frontend Developer Intern – AICTE  
+**Duration:** 3 Months  
+- Developed a personal portfolio website  
+- Built E-commerce and E-learning platforms  
+- Gained hands-on experience in real-world frontend development  
 
 ---
 
-## 🌱 Open Source
-- Actively contributing to **open-source projects on GitHub**
-- Interested in learning through real-world collaboration  
+## 🌍 Open Source
+- Actively contributing to open-source projects on GitHub  
+- Learning collaboration, code quality, and best practices  
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashrithapenubala&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashrithapenubala&show_icons=true" />
 </p>
 
 ---
 
-⭐ *Driven by learning, guided by purpose, and growing step by step.*
+✨ *Learning with faith. Building with purpose. Growing with consistency.*
