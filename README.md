@@ -11,7 +11,7 @@
 💻 Strong interest in **Full Stack Web Development**  
 ☁️ Currently learning **AWS (Cloud Computing)**  
 🌍 Long-term goal: Work in **international IT environments**  
-🔥 Passionate, fast learner, and ready to contribute  
+🔥 Passionate, fast learner, and ready to contribute 
 
 ---
 
