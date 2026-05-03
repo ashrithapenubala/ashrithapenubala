@@ -39,7 +39,7 @@
 
 ## 🚀 Featured Project
 
-### 🩸 LifeNest – Blood & Organ Donation Platform  
+### 🩸 [LifeNest – Blood & Organ Donation Platform](https://github.com/ashrithapenubala/Life-Nest)  
 *(3rd Year Mini Project)*
 
 - Full-stack web application for blood and organ donation  
@@ -49,6 +49,8 @@
 - Strong focus on backend development and system design  
 
 **Tech Stack:** HTML, CSS, JavaScript, Node.js, Express.js, PostgreSQL  
+
+- 📂 [View Repository](https://github.com/ashrithapenubala/Life-Nest)
 
 ---
 
@@ -101,7 +103,3 @@
 <p align="center">
   <img src="https://ghchart.rshah.org/ashrithapenubala" alt="Ashritha's GitHub Contributions" />
 </p>
-
----
-
-✨ *Learning with faith. Building with purpose. Growing with consistency.*
