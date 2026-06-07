@@ -14,6 +14,11 @@
 🔥 Passionate, fast learner, and ready to contribute 
 
 ---
+🏆 Certifications
+ServiceNow Certifications
+✅ ServiceNow Certified System Administrator (CSA)
+✅ ServiceNow Certified Application Developer (CAD)
+✅ ServiceNow Certified Implementation Specialist – Discovery Fundamentals (CIS-DF)
 
 ## 🛠️ Tech Stack
 
