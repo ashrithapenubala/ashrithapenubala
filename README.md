@@ -9,9 +9,17 @@
 ## 🌱 About Me
 
 🎓 B.Tech 4th Year student at **Mohan Babu University, Tirupati**
-💻 ServiceNow Developer & Full Stack Web Developer
+
+💼 ServiceNow Developer
+
+💻 Full Stack Web Developer
+
 ☁️ Currently learning **AWS (Cloud Computing)**
+
+📘 Amazon KDP Author
+
 🌍 Long-term goal: Work in **international IT environments**
+
 🔥 Passionate, fast learner, and ready to contribute
 
 ---
@@ -115,7 +123,7 @@
 * Religious Journal
 * Self-Love Journal
 * Fan-Based Journal
-* [View my journals on Amazon KDP](https://kdp.amazon.com/en_US/bookshelf)
+* View my journals on Amazon KDP
 
 ---
 
