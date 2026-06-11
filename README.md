@@ -1,15 +1,7 @@
 <h1 align="center">Hi, I'm Ashritha Penubala. 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=100&center=true&vCenter=true&width=650&color=1E90FF&lines=B.Tech+4th+Year+Student;ServiceNow+Developer;Full+Stack+Developer;AWS+Enthusiast;Open+Source+Contributor;Amazon+KDP+Author" />
-</p>
-
----
-
-<h1 align="center">Hi, I'm Ashritha Penubala. 👋</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=100&center=true&vCenter=true&width=650&color=1E90FF&lines=B.Tech+4th+Year+Student;ServiceNow+Developer;Full+Stack+Web+Developer;AWS+Enthusiast;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=100&center=true&vCenter=true&width=650&color=1E90FF&lines=B.Tech+4th+Year+Student;ServiceNow+Developer;Full+Stack+Web+Developer;AWS+Enthusiast;Open+Source+Contributor;Amazon+KDP+Author" />
 </p>
 
 ---
@@ -61,7 +53,7 @@
 
 ## 🚀 Featured Projects
 
-### 🏢 [Smart Leave Management System with Leave Conflict Detection](https://github.com/ashrithapenubala/Smart-Leave-Management-System)
+### 🏢 [Smart Leave Management System with Leave Conflict Detection](https://github.com/ashrithapenubala/smart-leave-management-system-with-leave-conflict-detection)
 
 *(ServiceNow Application Project)*
 
@@ -74,7 +66,7 @@
 
 **Tech Stack:** ServiceNow, Business Rules, Flow Designer, Reports, Dashboards
 
-* 📂 [View Repository](https://github.com/ashrithapenubala/Smart-Leave-Management-System)
+* 📂 [View Repository](https://github.com/ashrithapenubala/smart-leave-management-system-with-leave-conflict-detection)
 
 ---
 
@@ -151,4 +143,3 @@
 <p align="center">
   <img src="https://ghchart.rshah.org/ashrithapenubala" alt="Ashritha's GitHub Contributions" />
 </p>
-
