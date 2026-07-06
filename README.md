@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="assets/hero.svg" alt="Hero Banner" width="100%">
+  <img src="assests/hero.svg" alt="Hero Banner" width="100%">
 </p>
-<img src="assets/mission.svg" width="100%">
+<img src="assests/mission.svg" width="100%">
 
 <table>
 <tr>
