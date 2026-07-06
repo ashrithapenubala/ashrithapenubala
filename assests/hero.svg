@@ -1,1 +1,172 @@
 
+<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+
+<linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#050816"/>
+<stop offset="50%" stop-color="#0f172a"/>
+<stop offset="100%" stop-color="#1e1b4b"/>
+</linearGradient>
+
+<linearGradient id="text" x1="0%" y1="0%" x2="100%">
+<stop offset="0%" stop-color="#a855f7"/>
+<stop offset="100%" stop-color="#22d3ee"/>
+</linearGradient>
+
+<filter id="glow">
+<feGaussianBlur stdDeviation="5" result="coloredBlur"/>
+<feMerge>
+<feMergeNode in="coloredBlur"/>
+<feMergeNode in="SourceGraphic"/>
+</feMerge>
+</filter>
+
+</defs>
+
+<!-- Background -->
+<rect width="1200" height="320" fill="url(#bg)"/>
+
+<!-- Purple Glow -->
+<circle cx="170" cy="160" r="180" fill="#8b5cf6" opacity="0.18"/>
+
+<!-- Cyan Glow -->
+<circle cx="1050" cy="80" r="170" fill="#22d3ee" opacity="0.15"/>
+
+<!-- Stars -->
+<g fill="white">
+
+<circle cx="70" cy="40" r="1.5">
+<animate attributeName="opacity" values="0.2;1;0.2" dur="2s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="200" cy="90" r="1.2">
+<animate attributeName="opacity" values="1;0.2;1" dur="3s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="420" cy="30" r="1.5">
+<animate attributeName="opacity" values="0.3;1;0.3" dur="4s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="690" cy="50" r="1.2">
+<animate attributeName="opacity" values="1;0.2;1" dur="2.8s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="930" cy="40" r="1.5">
+<animate attributeName="opacity" values="0.2;1;0.2" dur="3.5s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="1120" cy="230" r="1.4">
+<animate attributeName="opacity" values="1;0.3;1" dur="4s" repeatCount="indefinite"/>
+</circle>
+
+</g>
+
+<!-- Orbit -->
+
+<ellipse cx="170" cy="160" rx="90" ry="90"
+fill="none"
+stroke="#8b5cf6"
+stroke-width="2"
+opacity="0.7">
+
+<animateTransform
+attributeName="transform"
+type="rotate"
+from="0 170 160"
+to="360 170 160"
+dur="20s"
+repeatCount="indefinite"/>
+
+</ellipse>
+
+<ellipse cx="170" cy="160"
+rx="90"
+ry="35"
+fill="none"
+stroke="#22d3ee"
+stroke-width="2"
+opacity="0.7">
+
+<animateTransform
+attributeName="transform"
+type="rotate"
+from="360 170 160"
+to="0 170 160"
+dur="16s"
+repeatCount="indefinite"/>
+
+</ellipse>
+
+<!-- AP Logo -->
+
+<circle
+cx="170"
+cy="160"
+r="55"
+fill="#111827"
+stroke="url(#text)"
+stroke-width="3"/>
+
+<text
+x="170"
+y="172"
+font-family="Segoe UI"
+font-size="34"
+font-weight="700"
+fill="white"
+text-anchor="middle">
+AP
+</text>
+
+<!-- Title -->
+
+<text
+x="320"
+y="110"
+font-family="Segoe UI"
+font-size="20"
+fill="#67e8f9">
+BUILDING SOFTWARE THAT MATTERS
+</text>
+
+<text
+x="320"
+y="175"
+font-family="Segoe UI"
+font-size="56"
+font-weight="800"
+fill="url(#text)"
+filter="url(#glow)">
+ASHRITHA PENUBALA
+</text>
+
+<text
+x="320"
+y="215"
+font-family="Segoe UI"
+font-size="20"
+fill="#d1d5db">
+SERVICENOW DEVELOPER • FULL STACK DEVELOPER • JAVA DEVELOPER
+</text>
+
+<!-- Status -->
+
+<circle cx="325" cy="255" r="6" fill="#22c55e">
+<animate
+attributeName="opacity"
+values="1;0.3;1"
+dur="1.5s"
+repeatCount="indefinite"/>
+</circle>
+
+<text
+x="340"
+y="260"
+font-family="Segoe UI"
+font-size="16"
+fill="#22c55e">
+Open to Software Engineering Opportunities
+</text>
+
+</svg>
